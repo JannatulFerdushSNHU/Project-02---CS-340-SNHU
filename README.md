@@ -29,8 +29,3 @@ Computer scientists solve real-world problems by creating digital solutions that
 - **Interactive Dashboard**: Implements filtering options (by rescue type) with charts and a data table that dynamically update based on user input.
 - **Aggregation Pipelines**: Utilizes MongoDB's aggregation pipeline for advanced queries, including total offices by state.
 
-### Future Use
-
-This repository serves as an ongoing reference for building and adapting MongoDB-driven dashboards, especially in scenarios where advanced queries and data visualizations are essential.
-
-Feel free to explore the repository, and reach out if you have questions about the design, implementation, or purpose of specific functions. Thank you for visiting!
